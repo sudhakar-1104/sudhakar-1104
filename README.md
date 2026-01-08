@@ -111,7 +111,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudhakar-1104&theme=react-dark&hide_border=true"/>
 </p>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sudhakar-1104&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
