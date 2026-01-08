@@ -111,12 +111,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudhakar-1104&theme=react-dark&hide_border=true"/>
 </p>
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudhakar-1104&show_icons=true&theme=react&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhakar-1104&theme=react&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sudhakar-1104&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=sudhakar-1104&theme=github-dark&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhakar-1104&layout=compact&theme=react&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhakar-1104&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
