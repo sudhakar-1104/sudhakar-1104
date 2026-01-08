@@ -118,6 +118,4 @@
   <img src="https://streak-stats.demolab.com?user=sudhakar-1104&theme=github-dark&hide_border=true" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhakar-1104&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+
