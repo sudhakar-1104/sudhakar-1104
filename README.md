@@ -29,9 +29,9 @@
 │  education   :  B.Tech CSE — Amrita Vishwa Vidyapeetham     │
 │  year        :  2022 – 2026  (Final Year)                   │
 │  internship  :  AI Engineering Intern @ Antz AI             │
-│  focus       :  LLMs · RAG Pipelines · ML · Embedded Sys   │
+│  focus       :  LLMs · RAG Pipelines · ML · Embedded Sys    │
 │  email       :  sudhakarsadasivam@gmail.com                 │
-│  status      :  Open to SDE / AI Engineering Roles  🚀     │
+│  status      :  Open to SDE / AI Engineering Roles          │
 └─────────────────────────────────────────────────────────────┘
 ```
 
