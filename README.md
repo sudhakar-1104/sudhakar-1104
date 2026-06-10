@@ -27,9 +27,9 @@
 │  name        :  K S Sudhakar                                │
 │  location    :  Coimbatore, Tamil Nadu, India               │
 │  education   :  B.Tech CSE — Amrita Vishwa Vidyapeetham     │
-│  year        :  2022 – 2026  (Final Year)                   │
+│  year        :  2022 – 2026                                 │
 │  internship  :  AI Engineering Intern @ Antz AI             │
-│  focus       :  LLMs · RAG Pipelines · ML · Embedded Sys    │
+│  focus       :  LLMs · RAG Pipelines · ML · Data Analytics  │
 │  email       :  sudhakarsadasivam@gmail.com                 │
 │  status      :  Open to SDE / AI Engineering Roles          │
 └─────────────────────────────────────────────────────────────┘
@@ -48,7 +48,7 @@
 | 🏛️ Institution | 📘 Degree | 📊 Score | 📅 Duration |
 |:---|:---|:---:|:---:|
 | **Amrita Vishwa Vidyapeetham**, Coimbatore | B.Tech — Computer Science & Engineering | `CGPA: 7.00` | 2022 – 2026 |
-| **SBOA Matric. Hr. Sec. School**, Coimbatore | Higher Secondary Certificate (HSC) | `88%` | Completed 2022 |
+| **SBOA Matric. Hr. Sec. School**, Coimbatore | Higher Secondary Certificate (HSC) | `88%` | 2022 |
 
 ---
 
@@ -58,7 +58,7 @@
 > **May 2025 – July 2025** &nbsp;|&nbsp; Hybrid
 
 - Developed **LLM-powered Retrieval-Augmented Generation (RAG)** pipelines from scratch
-- Integrated **vector databases** for semantic search and context-driven query processing
+- Integrated **vector databases** for semantic search and context driven query processing
 - Performed testing, validation, and **performance optimization** of AI workflows
 - Built and shipped scalable, production-oriented AI applications
 
