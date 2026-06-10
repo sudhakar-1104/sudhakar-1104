@@ -199,6 +199,7 @@ Java OOP application with encapsulation and polymorphism, enabling users to brow
 
 </div>
 
+[![An image of @sudhakar1104's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudhakar1104)](https://holopin.io/@sudhakar1104)
 ---
 
 ## 🏅 Certifications & Learning
