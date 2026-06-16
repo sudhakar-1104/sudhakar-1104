@@ -39,7 +39,7 @@
 - 🔬 Passionate about **AI systems, backend engineering & scalable software**
 - ✈️ Applied **Computer Vision + ML** for real-world aviation safety use case
 - 📡 Hands-on with **Embedded Systems** (STM32F4, UART, GPIO, ADC)
-- 🧠 Strong foundation in **DBMS, OS, Networks, Cryptography & AI**
+- 🧠 Strong foundation in **DBMS, OS, Networks, Data Analytics, Cryptography & AI**
 
 ---
 
