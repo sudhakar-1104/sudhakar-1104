@@ -64,6 +64,16 @@
 
 ---
 
+## 📄 Research & Publications
+ 
+### 🧬 Retrieval-Grounded Multimodal Clinical Language Modeling
+[![ICTIS 2026](https://img.shields.io/badge/Conference-ICTIS_2026-58a6ff?style=flat-square)]()
+[![Springer](https://img.shields.io/badge/Publisher-Springer_LNNS-orange?style=flat-square)]()
+[![Status](https://img.shields.io/badge/Status-Accepted-2ea44f?style=flat-square)]()
+ 
+Accepted for publication at **ICTIS 2026 (Springer, Lecture Notes in Networks and Systems)**. Introduced a **multimodal Retrieval-Augmented Generation (RAG) framework** for privacy-preserving clinical Large Language Models, improving factual reliability of generated clinical text — the research foundation behind the *Context-Aware Medical Q&A* project below.
+
+
 ## 🧰 Technical Skills
 
 ### 💻 Programming Languages
@@ -91,6 +101,20 @@
 > Additionally: `Jira` · `Microsoft Suite` · `Google Suite` · `STM32CubeIDE`
 
 ---
+
+## 🗺️ Journey Timeline
+ 
+```mermaid
+timeline
+    title Academic & Project Timeline
+    2022 : Joined Amrita Vishwa Vidyapeetham (B.Tech CSE) : Movie Ticket Booking System (Java, OOP)
+    2023 : IoT-Based Stock Prediction (STM32F4) : State & City Wise Crime Database (SQL)
+    2024 : Formula 1 Fan Hub (Web Dev) : Cloud Pattern Analysis for Aviation Safety (CV/ML)
+    2025 : AI Engineering Intern @ Antz AI : Context-Aware Medical Q&A (RAG System)
+    2026 : ICTIS Paper Accepted (Springer LNNS) : B.Tech Graduation
+```
+ 
+<sub>Renders automatically on GitHub — no setup needed, native Mermaid support.</sub>
 
 ## 🚀 Featured Projects
 
