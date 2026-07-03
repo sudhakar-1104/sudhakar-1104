@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=K%20S%20SUDHAKAR&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20CSE%20%40%20Amrita%20%E2%80%A2%20Builder%20of%20Scalable%20Systems&descAlignY=60&descSize=15&descColor=8b949e"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=LLMs+%7C+RAG+Pipelines+%7C+Vector+Databases+%F0%9F%A4%96;Machine+Learning+%7C+Computer+Vision+%7C+Embedded+Systems+%F0%9F%94%AC;Python+%7C+Java+%7C+C%2B%2B+%7C+SQL+%F0%9F%92%BB;Final+Year+CSE+%40+Amrita+Vishwa+Vidyapeetham+%F0%9F%8E%93;Open+to+SDE+%2F+AI+Engineering+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=LLMs+%7C+RAG+Pipelines+%7C+Vector+Databases+%F0%9F%A4%96;Machine+Learning+%7C+Computer+Vision+%7C+Embedded+Systems+%F0%9F%94%AC;Python+%7C+Java+%7C+C%2B%2B+%7C+SQL+%F0%9F%92%BB;CSE+GARDUATE+%40+Amrita+Vishwa+Vidyapeetham+%F0%9F%8E%93;Open+to+SDE+%2F+AI+Engineering+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
