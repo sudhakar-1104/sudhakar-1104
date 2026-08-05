@@ -28,10 +28,10 @@
 │  location    :  Coimbatore, Tamil Nadu, India               │
 │  education   :  B.Tech CSE — Amrita Vishwa Vidyapeetham     │
 │  year        :  2022 – 2026                                 │
-│  internship  :  AI Engineering Intern @ Antz AI             │
+│  Role        :  Jr SWE @ SCHIMA SYSNET SOLUTIONS            │
 │  focus       :  LLMs · RAG Pipelines · ML · Data Analytics  │
 │  email       :  sudhakarsadasivam@gmail.com                 │
-│  status      :  Open to SDE / AI Engineering Roles          │
+│  status      :  Working                                     │
 └─────────────────────────────────────────────────────────────┘
 ```
 
