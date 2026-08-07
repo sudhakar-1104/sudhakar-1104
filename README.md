@@ -28,10 +28,10 @@
 │  location    :  Coimbatore, Tamil Nadu, India               │
 │  education   :  B.Tech CSE — Amrita Vishwa Vidyapeetham     │
 │  year        :  2022 – 2026                                 │
-│  Role        :  Jr SWE @ SCHIMA SYSNET SOLUTIONS            │
-│  focus       :  LLMs · RAG Pipelines · ML · Data Analytics  │
+│  Role        :  Jr SWD @ SCHIMA SYSNET SOLUTIONS            │
+│  focus       :  SWD  · RAG Pipelines · ML · Data Analytics  │
 │  email       :  sudhakarsadasivam@gmail.com                 │
-│  status      :  Working                                     │
+│  status      :  Junior Software Developer                   │
 └─────────────────────────────────────────────────────────────┘
 ```
 
